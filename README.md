@@ -9,10 +9,10 @@
 <h3 align="center"><a href="https://arxiv.org/abs/2404.14044v1">Paper</a> | <a href="">Video(coming soon)</a> | <a href="https://jiahao-ma.github.io/hashpoint/">Project Page</a></h3>
 <div align="center"></div>
 <p align="center">
-  <a href="">
-    <video width="100%" controls autoplay muted>
-      <source src="./media/video2.mp4" type="video/mp4">
-    </video>
+  <a href="https://jiahao-ma.github.io/hashpoint/hashpoint/video2.mp4">
+    <a href="">
+    <img src="./media/video2.gif" alt="teaser" width="100%">
+  </a>
   </a>
 </p>
 
