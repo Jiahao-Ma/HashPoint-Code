@@ -10,14 +10,14 @@
 <div align="center"></div>
 <p align="center">
   <a href="">
-    <img src="./media/teaser.gif" alt="teaser" width="100%">
-  </a>
-  <a href="">
-    <img src="./media/gui.jpg" alt="gui" width="100%">
+    <video width="100%" controls autoplay muted>
+      <source src="./media/video2.mp4" type="video/mp4">
+    </video>
   </a>
 </p>
+
 <p align="left">
-The project provides official implementation of <a href="https://arxiv.org/abs/2404.14044v1">HashPoint</a> in CVPR'24. HashPoint enhances point searching and sampling efficiency by integrating rasterization with ray-tracing techniques, focusing on the primary surface to streamline rendering processes. 
+The project provides official implementation of <a href="https://arxiv.org/abs/2404.14044v1">HashPoint</a> in CVPR'24. The HashPoint method significantly improves the efficiency of point searching and sampling by combining rasterization with ray-tracing techniques. Unlike the multi-surface sampling approach of Point-NeRF, HashPoint concentrates on the primary surface, thereby acclerating the rendering process. The video above demonstrates this streamlined approach in action.
 </p>
 
 ## Note
