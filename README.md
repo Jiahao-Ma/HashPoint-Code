@@ -6,7 +6,7 @@
 
 </p>
 
-<h3 align="center"><a href="https://arxiv.org/abs/2404.14044v1">Paper</a> | <a href="">Video(coming soon)</a> | <a href="https://jiahao-ma.github.io/hashpoint/">Project Page</a></h3>
+<h3 align="center"><a href="https://arxiv.org/abs/2404.14044v1">Paper</a> | <a href="https://www.youtube.com/watch?v=3tUB-ewh3LY">Video</a> | <a href="https://jiahao-ma.github.io/hashpoint/">Project Page</a></h3>
 <div align="center"></div>
 <p align="center">
   <a href="https://jiahao-ma.github.io/hashpoint/hashpoint/video2.mp4">
