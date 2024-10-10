@@ -20,5 +20,31 @@
 The project provides official implementation of <a href="https://arxiv.org/abs/2404.14044v1">HashPoint</a> in CVPR'24. The HashPoint method significantly improves the efficiency of point searching and sampling by combining rasterization with ray-tracing techniques. Unlike the multi-surface sampling approach of Point-NeRF, HashPoint concentrates on the primary surface, thereby acclerating the rendering process. The video above demonstrates this streamlined approach in action.
 </p>
 
-## Note
-The source code will be released soon. 
+## TODOs
+- [x] The source code of hashpoint (Searching and Sampling)
+- [ ] Integration with Point-NeRF (Coming soon)
+- [ ] The detailed instructions (Coming soon)
+
+### Installation
+
+1. Create a new conda environment named `mvchm` to run this project:
+```
+conda create -n hashpoint python=3.9.7
+conda activate hashpoint
+```
+
+2. Make sure your system meet the CUDA requirements and install some core packages:
+```
+pip install easydict torch==1.12.1+cu113 torchvision==0.13.1+cu113 tqdm scipy opencv-python
+```
+
+3. Clone this repository
+```
+cd Your-Project-Folder
+gir clone git@github.com:Jiahao-Ma/HashPoint-Code.git
+```
+
+4. Install hashpoint CUDA library 
+```
+pip install .
+```
